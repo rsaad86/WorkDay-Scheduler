@@ -5,4 +5,4 @@ Using the standard hours of 9am to 5pm, whatever the current hour is, it will be
 
 Here is a screenshot of the app:
 
-![WorkdayScheduler](https://raw.githubusercontent.com/rsaad86/WorkDay-Scheduler/develop/WorkdaySchedulerApp.png)
+![WorkdayScheduler](https://raw.githubusercontent.com/rsaad86/WorkDay-Scheduler/main/WorkdaySchedulerApp.png)
